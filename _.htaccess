@@ -1,0 +1,5 @@
+if ($_SERVER['REQUEST_URI'] =='http://www.100kg.by/sportpit_dostavka_minsk.html') {
+header("HTTP/1.1 301 Moved Permanently");
+header("Location: http://100kg.by/index.html";);
+exit();
+}

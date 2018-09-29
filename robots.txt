@@ -1,0 +1,2 @@
+User-agent: *
+Sitemap: http://100kg.by/sitemap.xml
